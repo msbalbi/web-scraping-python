@@ -119,6 +119,9 @@ Em seguida, ele irá abrir ou na esquerda ou na direita um painel destacando o e
 Após selecionar o texto que quer raspar basta achar o elemento pela identificação dele, seja id ou class, se for por id você pode encontrá-lo deste jeito: soup.find(id=”link3″), e na última linha de código estou mostrando na tela o texto cru deste elemento HTML, fácil né?
 
 # Na pastas do BeautfulSoup temos outros dois exemplos:
-<num> BeautifulSoup/Mercado_Livre 
+BeautifulSoup/Mercado_Livre 
 "[https://BeautifulSoup/Mercado_Livre/](https://github.com/msbalbi/web-scraping-python/blob/9b5ed78ac66a44271f75348bee51817c1da2b4a2/BeautifulSoup/Mercado_Livre/mercado_livre.py)https://github.com/msbalbi/web-scraping-python/blob/9b5ed78ac66a44271f75348bee51817c1da2b4a2/BeautifulSoup/Mercado_Livre/mercado_livre.py"
+
+Noticias :
+"https://github.com/msbalbi/web-scraping-python/tree/774e3652642c669f8fcb9b0bfc2ddd2c08987a4b/BeautifulSoup/Noticias"
 # Na pasta Selinium temos o exemplo do aibnb
