@@ -120,5 +120,5 @@ Ap√≥s selecionar o texto que quer raspar basta achar o elemento pela identifica√
 
 # Na pastas do BeautfulSoup temos outros dois exemplos:
 <num> BeautifulSoup/Mercado_Livre 
-"https://BeautifulSoup/Mercado_Livre/"
+"[https://BeautifulSoup/Mercado_Livre/](https://github.com/msbalbi/web-scraping-python/blob/9b5ed78ac66a44271f75348bee51817c1da2b4a2/BeautifulSoup/Mercado_Livre/mercado_livre.py)https://github.com/msbalbi/web-scraping-python/blob/9b5ed78ac66a44271f75348bee51817c1da2b4a2/BeautifulSoup/Mercado_Livre/mercado_livre.py"
 # Na pasta Selinium temos o exemplo do aibnb
