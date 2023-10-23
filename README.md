@@ -126,3 +126,5 @@ Noticias
 "https://github.com/msbalbi/web-scraping-python/tree/774e3652642c669f8fcb9b0bfc2ddd2c08987a4b/BeautifulSoup/Noticias"
 
 # Na pasta Selinium temos o exemplo do aibnb
+
+"https://github.com/msbalbi/web-scraping-python/tree/5729ec167a9b88a1a03d2965b4784ff0a9296430/Selenium/airbnb"
