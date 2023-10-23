@@ -120,4 +120,5 @@ Ap√≥s selecionar o texto que quer raspar basta achar o elemento pela identifica√
 
 # Na pastas do BeautfulSoup temos outros dois exemplos:
 <num> BeautifulSoup/Mercado_Livre 
+"Pagando o GitHub Sponsors por fatura".
 # Na pasta Selinium temos o exemplo do aibnb
