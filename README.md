@@ -4,7 +4,7 @@ Como fazer web scraping python de maneira fácil e rápida.
 O que é web scraping Python? Você vai conhecer as infinitas possibilidades que você consegue fazer com essa aplicação!
 
 
-#O que é web scraping?
+# O que é web scraping?
 Web scraping é uma coleta de dados da web, de sites, onde são usados scripts e programas para “raspar” informações destes sites e que poderão ser usadas para futuras análises.
 
 Por exemplo, comparar preços, monitorar o tempo, pesquisar o que está em alta no mercado, entre muitas outras coisas.
