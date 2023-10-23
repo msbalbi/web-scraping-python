@@ -29,7 +29,8 @@ Empresas de mídia, como o Twitter, Facebook e Instagram, usam o web scraping Py
 
 Além de jornalistas que recolhem informações de alguma notícia, entrevista, relatório, reportagem.
 
-O que é preciso para fazer um web scraping Python?
+# O que é preciso para fazer um web scraping Python?
+
 Para fazer um web scraping Python, obviamente vamos precisar do Python, mais especificamente a versão 3.
 
 Iremos usar o pip para baixar as bibliotecas que iremos usar para fazer o web scraping Python, que serão elas: a Beautiful Soup, a biblioteca requests, e um editor de texto de sua preferência.
@@ -43,26 +44,28 @@ O pip vai servir para instalarmos as bibliotecas que iremos usar de uma forma f�
 Requests
 Para instalar a biblioteca que iremos usar para fazermos nossas requisições é a requests, você pode instalar-la facilmente com o pip com os seguintes comandos:
 
-No Linux:
+# No Linux:
 
 sudo pip install requests
 
-No Windows:
+# No Windows:
 
 Você tem que executar o cmd como administrador e usar o comando “pip install requests”.
 
-Beautifulsoup
+# Beautifulsoup
+
 Por último, iremos instalar a biblioteca que iremos usar para fazer o web scraping Python, você pode instalar-la com o seguinte comando:
 
-No Linux:
+# No Linux:
 
 sudo pip install beautifulsoup 4
 
-No Windows:
+# No Windows:
 
 Execute o prompt de comando como administrador e instale-a com o comando pip install beautifulsoup 4 e, se tudo der certo, vai retornar algo parecido com a imagem a seguir:
 
-O que você pode fazer com web scraping Python?
+# O que você pode fazer com web scraping Python?
+
 Você pode fazer muitas coisas com web scraping Python, neste artigo irei desenvolver um script bem simples que coleta dados e previsões do site do Climatempo como um exemplo prático.
 
 Iremos tratar esses dados e ver qual a temperatura mínima e máxima de sua cidade, é bem simples e introdutório.
@@ -75,10 +78,11 @@ Também é legal fazer um script com o web scraping Python que raspa o preço de
 
 Você pode fazer isso e muito mais com o web scraping Python, é uma combinação poderosa com infinitas possibilidades.
 
-Criando um web scraper do zero
+# Criando um web scraper do zero
+
 Prontinho, já instalamos tudo o que iremos precisar e agora vamos criar um web scraper do zero usando o Python.
 
-Primeiro, crie um arquivo com o nome que você preferir e com a extensão .py, abra-o com o seu editor de texto e cole o seguinte código:
+# Primeiro, crie um arquivo com o nome que você preferir e com a extensão .py, abra-o com o seu editor de texto e cole o seguinte código:
 
 from bs4 import BeautifulSoup
 
