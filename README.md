@@ -17,7 +17,7 @@ Não é a melhor forma de se fazer web scraping, por exemplo, pois você precisa
 É aí que o web scraping Python entra, para automatizar esta tarefa!
 
 
-Onde web scraping é usado?
+# Onde web scraping é usado?
 
 O web scraping é usado em vários lugares e contextos, alguns deles estão na tarefa de algumas empresas.Como coletar preços e dados sobre o comércio eletrônico de uma concorrente para ajustar qual produto colocar em promoção e promover o marketing.
 
