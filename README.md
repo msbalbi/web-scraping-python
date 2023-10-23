@@ -117,3 +117,6 @@ Você pode ver a classe e o elemento apertando Ctrl+Shift+C ou Command+Shift+C e
 Em seguida, ele irá abrir ou na esquerda ou na direita um painel destacando o elemento selecionado, alguma coisa parecida com a imagem a seguir:
 
 Após selecionar o texto que quer raspar basta achar o elemento pela identificação dele, seja id ou class, se for por id você pode encontrá-lo deste jeito: soup.find(id=”link3″), e na última linha de código estou mostrando na tela o texto cru deste elemento HTML, fácil né?
+
+# Na pastas do BeautfulSoup temos outros dois exemplos
+# Na pasta Selinium temos o exemplo do aibnb
